@@ -6,4 +6,4 @@ This content management system app enables users to view and manage the departme
 
 ## Demonstration
 
-[![Demo Video](https://www.loom.com/share/0bffc106d3ae41a98fe6de4f7918945a)]
+[Demo Video](https://www.loom.com/share/0bffc106d3ae41a98fe6de4f7918945a)
